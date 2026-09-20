@@ -1,0 +1,26 @@
+# tem que instalar o PyTorch CPU primeiro (index oficial):
+#   pip install torch==2.14.0+cpu torchaudio==2.11.0+cpu --index-url https://download.pytorch.org/whl/cpu
+# depois:
+#   pip install -r requirements.txt
+torch==2.14.0+cpu
+torchaudio==2.11.0+cpu
+coqui-tts==0.24.2
+transformers==4.46.3
+spacy==3.7.5
+numpy==1.26.4
+scipy==1.13.1
+librosa==0.10.2.post1
+faster-whisper==1.2.1
+soundfile==0.14.0
+yt-dlp==2026.8.19
+curl_cffi
+gruut[de,es,fr]
+einops
+encodec
+num2words
+anyascii
+inflect
+pysbd
+coqpit
+monotonic-alignment-search
+numba==0.67.0

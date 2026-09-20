@@ -1,0 +1,11 @@
+{
+  "name": "boni",
+  "person": "Boni (José Bonifácio de Oliveira Sobrinho, ex-vice-presidente de operações da Globo)",
+  "source": "https://www.tiktok.com/@oladobdeboni/video/7424152515362491654",
+  "reference_wav": "reference.wav",
+  "reference_transcript": "transcript.txt",
+  "language": "pt",
+  "sr": 24000,
+  "duration_sec": 26.0,
+  "engine": "XTTS-v2 via coqui-tts (free)"
+}

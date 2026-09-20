@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.tts_cache/
+tts_cache/
+.ts_cache/
+~/.local/share/tts/
